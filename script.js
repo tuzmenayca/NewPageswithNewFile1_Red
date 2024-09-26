@@ -15,6 +15,6 @@ function draw() {
 function clickedNewScreen(){
   //window.open("https://NewPageswithNewFile2.aycatuzmen.repl.co", "_self")
   //window.open("https://95dc9fa3-111d-4f01-87bc-9fa7119dca16-00-1j3oyk5cngcsm.riker.repl.co/","_self");
-  //window.open("https://replit.com/@AycaTuzmen/NewPages_withNewFile2/", "_self")
-  window.open("https://95dc9fa3-111d-4f01-87bc-9fa7119dca16-00-1j3oyk5cngcsm.riker.replit.dev/", "_self")
+  window.open("https://replit.com/@AycaTuzmen/NewPageswithNewFile2", "_self")
+  //window.open("https://95dc9fa3-111d-4f01-87bc-9fa7119dca16-00-1j3oyk5cngcsm.riker.replit.dev/", "_self")
 }
